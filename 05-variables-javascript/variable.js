@@ -24,3 +24,13 @@ var name = "hello",
 console.log(name);
 console.log(roll);
 console.log(address)
+console.log('\n');
+
+
+// Re-Declaring variable
+
+var name = "Jibon";
+var name;
+console.log(name)
+
+
