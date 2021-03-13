@@ -13,3 +13,14 @@
 var a = 23;
 // output browser console
 console.log(a);
+
+// linebreak
+console.log('\n');
+
+// Example
+var name = "hello",
+    roll = 69,
+    address = "69/A Dhaka";
+console.log(name);
+console.log(roll);
+console.log(address)
