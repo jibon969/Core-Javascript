@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested Do While Loop</title>
+</head>
+
+<body>
+
+    <script>
+        var i = 0;
+        do {
+            document.write("Outer loop :- ");
+            document.write(i);
+            i++;
+            document.write("</br>");
+            var j = 0;
+            do {
+                document.write("Inner loop : ");
+                document.write(j);
+                j++;
+                document.write("</br>");
+            }
+            while (j <= 5);
+        }
+        while (i <= 3)
+    </script>
+
+</body>
+
+</html>
