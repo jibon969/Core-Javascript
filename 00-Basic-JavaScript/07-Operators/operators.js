@@ -1,8 +1,8 @@
 
 /*
-Javascripts
+JavaScript
     1. Arithmetic Operator
-    2. Relational Oerator
+    2. Relational Operator
     3. logical Operator
     4. Bitwise Operator
     5. Assignment operator
@@ -18,7 +18,7 @@ console.log(c);
 console.log('\n')
 
 
-// Relational Oerator
+// Relational Operator
 var a, b;
 a = 5;
 b = 6;
